@@ -1,6 +1,6 @@
 {
-  "latestVersion": "0.0.1dev1",
-  "latestVersionCode": 1,
-  "url": "https://github.com/javiersantos/AppUpdater/releases",
-  "releaseNotes": ["- First evolution", "- Second evolution", "- Bug fixes"]
+  "latestVersion": "0.0.1dev2",
+  "latestVersionCode": 2,
+  "url": "https://s3.timeweb.com/3c7359ed-b0b9b82d-0321-4dfb-9b6f-5d8772b2e269/jde_update_files/app-release-unsigned.apk",
+  "releaseNotes": ["Add update system"]
 }
